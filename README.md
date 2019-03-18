@@ -1,2 +1,2 @@
 # OPRA-data-extraction
-Regularized data extraction from the raw OPRA dataset
+A structured data extraction from the raw OPRA dataset
